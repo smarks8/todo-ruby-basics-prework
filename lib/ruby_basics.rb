@@ -20,6 +20,8 @@ def return_a_value
 end
 
 def last_evaluated_value
+  "ok"
+  "expert"
 
 end
 
